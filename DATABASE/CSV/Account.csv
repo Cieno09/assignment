@@ -1,0 +1,36 @@
+AccountKey;Account;AccountType;Sign;AccountHeaderKey;AccountSubheaderKey;AccountSubheader;SubheaderDetail
+51;Trade Sales;Revenue;1;1;51;Trade Sales;0
+52;Intercompany Sales;Revenue;1;1;51;Intercompany Sales;0
+53;Returns and Adjustments;Expenditures;-1;2;53;Returns and Adjustments;0
+54;Discounts;Expenditures;-1;2;54;Discounts;0
+56;Standard Cost of Sales;Expenditures;-1;4;56;Standard Cost of Sales;0
+57;Variances;Expenditures;-1;4;57;Variances;0
+60;Salaries;Expenditures;-1;6;59;Labor Expenses;1
+61;Payroll Taxes;Expenditures;-1;6;59;Labor Expenses;1
+62;Employee Benefits;Expenditures;-1;6;59;Labor Expenses;1
+63;Commissions;Expenditures;-1;6;63;Commissions;0
+65;Travel Transportation;Expenditures;-1;6;64;Travel Expenses;1
+66;Travel Lodging;Expenditures;-1;6;64;Travel Expenses;1
+67;Meals;Expenditures;-1;6;64;Travel Expenses;1
+68;Entertainment;Expenditures;-1;6;64;Travel Expenses;1
+69;Other Travel Related;Expenditures;-1;6;64;Travel Expenses;1
+71;Conferences;Expenditures;-1;6;70;Marketing;1
+72;Marketing Collateral;Expenditures;-1;6;70;Marketing;1
+73;Office Supplies;Expenditures;-1;6;73;Office Supplies;0
+74;Professional Services;Expenditures;-1;6;74;Professional Services;0
+76;Telephone;Expenditures;-1;6;75;Telephone and Utilities;1
+77;Utilities;Expenditures;-1;6;75;Telephone and Utilities;1
+78;Other Expenses;Expenditures;-1;6;78;Other Expenses;0
+80;Building Leasehold;Expenditures;-1;6;79;Depreciation;1
+81;Vehicles;Expenditures;-1;6;79;Depreciation;1
+82;Equipment;Expenditures;-1;6;79;Depreciation;1
+83;Furniture and Fixtures;Expenditures;-1;6;79;Depreciation;1
+84;Other Assets;Expenditures;-1;6;79;Depreciation;1
+85;Amortization of Goodwill;Expenditures;-1;6;79;Depreciation;1
+87;Rent;Expenditures;-1;6;87;Rent;0
+89;Interest Income;Revenue;1;8;89;Interest Income;0
+90;Interest Expense;Expenditures;-1;8;90;Interest Expense;0
+91;Gain/Loss on Sales of Asset;Revenue;1;8;91;Gain/Loss on Sales of Asset;0
+92;Other Income;Revenue;1;8;92;Other Income;0
+93;Curr Xchg Gain/(Loss);Revenue;1;8;93;Curr Xchg Gain/(Loss);0
+94;Taxes;Expenditures;-1;9;94;Taxes;0

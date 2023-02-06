@@ -1,0 +1,7 @@
+
+SQLserver:sqlserveraustine.database.windows.net
+Username:austineuser
+Password:26@october
+
+Files
+https://drive.google.com/drive/folders/179V7cVDgbKpFIrNysXMvnkntr-HfG_9-?usp=sharing
